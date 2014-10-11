@@ -5,3 +5,7 @@ small light/shadow engine in lua with LOVE2D framework... using GLSL to compute 
 
 
 shader used to draw shadows is in light_source.lua file at the bottom.
+
+Picture:
+
+![Alt text](/Lights and Shadows.png "In Action")
